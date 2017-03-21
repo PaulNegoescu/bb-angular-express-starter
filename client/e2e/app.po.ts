@@ -6,6 +6,6 @@ export class ClientPage {
   }
 
   getParagraphText() {
-    return element(by.css('am-root h1')).getText();
+    return element(by.css('bb-root h1')).getText();
   }
 }

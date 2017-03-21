@@ -11,7 +11,7 @@ Vagrant.configure("2") do |config|
 	config.vm.network "forwarded_port", guest: 3306, host: 3306
 
     # expose sources folder in vm in /app folder
-    config.vm.synced_folder "../", "/app", fsnotify: true
+    config.vm.synced_folder "../", "/app"
 
     # Enable the VM to use host's DNS. This is needed to resolve local machines, etc
     config.vm.provider :virtualbox do |vb|
