@@ -1,6 +1,6 @@
 # Back to Basics Angular and Express Starter Pack
 
-This project means to be a mostly unopinionated, back to basics, down to earth (Angular)[https://angular.io/] and (Express)[https://expressjs.com/] starter project. It was created by using of (@angular/cli)[https://github.com/angular/angular-cli] and (express generator)[https://expressjs.com/en/starter/generator.html], the official ones and applying only minor modifications which are all documented below in order to make them work together. 
+This project means to be a mostly unopinionated, back to basics, down to earth [Angular](https://angular.io/) and [Express](https://expressjs.com/) starter project. It was created by using of [@angular/cli](https://github.com/angular/angular-cli) and [express generator](https://expressjs.com/en/starter/generator.html), the official ones and applying only minor modifications which are all documented below in order to make them work together. 
 
 The starter files can also be run inside a [Vagrant](https://www.vagrantup.com/) box running [Ubuntu](https://www.vagrantup.com/) Xenial.
 
@@ -19,7 +19,7 @@ Follow the steps below which match your desired development style.
 ### Local Setup
 
 1. ```clone``` this project
-2. Install (Node JS)[https://nodejs.org/en/download/], prefer Node v7 or later
+2. Install [Node JS](https://nodejs.org/en/download/), prefer Node v7 or later
 3. When done run ```npm install -g @angular/cli``` (you might need to sudo on *nix)
 4. ```cd``` to the folder you cloned this project to and run ```npm install```
 
