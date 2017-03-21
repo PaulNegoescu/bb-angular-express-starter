@@ -6,7 +6,7 @@ The starter files can also be run inside a [Vagrant](https://www.vagrantup.com/)
 
 ## Back to Basics 
 
-__I've created back to basics projects be a good starting point, especially for people less comfortable with custom setups created by who knows who, or who are just starting their journey into this world.__
+__Back to Basics projects are created to be a good starting point, especially for people less comfortable with custom setups created by who knows who, or who are just starting their journey into this world.__
 
 Back to Basics projects are based on vendor recommended setups, they are easy to keep updated and developers can fall-back to the official documentation of the tools anytime. This way these projects are independent of regular maintenance or third party documentation.
 
